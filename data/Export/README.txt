@@ -19,7 +19,7 @@ EAM [kg]
     Expected annual mobilisation without flood defences
 EAM_protected [kg]
     Expected annual mobilisation while accounting for flood defences
-RP
-    Return period protection of flood defences (year)
+RP [year]
+    Return period protection of flood defences
 geometry
     Polygon of the administration unit
